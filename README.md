@@ -1,6 +1,6 @@
 # Hacker News
 
-Benvenuti su Hacker News. Il sito ha lo scopo di promuevere la diffusiione di informazioni in ambito tech grazie all'utilizzo del servizio Hacker News.
+Benvenuti su Hacker News. Il sito ha lo scopo di promuevere la diffusione di informazioni in ambito tech grazie all'utilizzo del servizio Hacker News.
 
 ## URL del sito
 Il sito è online su GitHub Pages e disponibile al seguente indirizzo: [Hacker News](https://fabiocambula.github.io/HackerNews/)
@@ -20,8 +20,8 @@ L'obiettivo del sito è quello di fare una esercitazione sulle chiamate API.
 - **CSS** per il layout responsivo e un design moderno
 - **JavaScript** per le funzionalità interattive
 - **Axios e Lodash** per migliorare le chiamate API
-- **Webpack**ottimizzazione caricamento applicazione su browser
-- **babel**trasforma il codice js per renderlo compatibile con browser obsoleti
+- **Webpack** ottimizzazione caricamento applicazione su browser
+- **babel** trasforma il codice js per renderlo compatibile con browser obsoleti
 
 
 ## Come contribuire
@@ -33,6 +33,11 @@ Se desideri suggerire miglioramenti o segnalare problemi:
 4. Pusha il branch (`git push origin nome-branch`)
 5. Invia una Pull Request
 
+## Licenza
+
+Distribuito sotto la licenza MIT. Consulta [LICENSE](LICENSE.txt) per ulteriori informazioni.
+
 ## Contatti
 
-Per maggiori informazioni, puoi contattarmi attraverso la mail che trovi sul mio profilo.
+Fabio Cambula  
+📧 **Email:** [fabiocambulaa@yahoo.com](mailto:fabiocambulaa@eyahoo.com) 

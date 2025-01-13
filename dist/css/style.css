@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-seerif;
+  margin: 0;
+  padding: 20px;
+ background: linear-gradient(135deg, #89CFF0, #FFC1CC)
+}
+h1{
+  text-align: center;
+  padding-bottom: 10vh;
+  color: rgb(16, 62, 78);
+  font-size: 5vw;
+}
+
+#app {
+  max-width: 1000px;
+  margin: auto;
+  border-radius: 20px;
+  background: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5vh;
+}
+a{
+  color: rgb(97, 92, 92);
+  text-decoration: none;
+}
+
+button {
+  display: block;
+  background: white;
+  color: rgb(78, 78, 234);
+  font-weight: bold;
+  margin: 4vw auto;
+  border-radius: 15px;
+  padding: 2vh 3vw;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
+button:hover{
+  background: rgba(113, 192, 245, 0.554);
+}

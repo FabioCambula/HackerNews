@@ -20,8 +20,8 @@ L'obiettivo del sito è quello di fare una esercitazione sulle chiamate API.
 - **CSS** per il layout responsivo e un design moderno
 - **JavaScript** per le funzionalità interattive
 - **Axios e Lodash** per migliorare le chiamate API
-- **Webpack**ottimizzazione caricamento applicazione su browser
-- **babel**trasforma il codice js per renderlo compatibile con browser obsoleti
+- **Webpack** ottimizzazione caricamento applicazione su browser
+- **babel** trasforma il codice js per renderlo compatibile con browser obsoleti
 
 
 ## Come contribuire

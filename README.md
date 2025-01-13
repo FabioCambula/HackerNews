@@ -33,6 +33,11 @@ Se desideri suggerire miglioramenti o segnalare problemi:
 4. Pusha il branch (`git push origin nome-branch`)
 5. Invia una Pull Request
 
+## Licenza
+
+Distribuito sotto la licenza MIT. Consulta [LICENSE](LICENSE.txt) per ulteriori informazioni.
+
 ## Contatti
 
-Per maggiori informazioni, puoi contattarmi attraverso la mail che trovi sul mio profilo.
+Fabio Cambula  
+📧 **Email:** [fabiocambulaa@yahoo.com](mailto:fabiocambulaa@eyahoo.com) 

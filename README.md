@@ -1,6 +1,6 @@
 # Hacker News
 
-Benvenuti su Hacker News. Il sito ha lo scopo di promuevere la diffusiione di informazioni in ambito tech grazie all'utilizzo del servizio Hacker News.
+Benvenuti su Hacker News. Il sito ha lo scopo di promuevere la diffusione di informazioni in ambito tech grazie all'utilizzo del servizio Hacker News.
 
 ## URL del sito
 Il sito è online su GitHub Pages e disponibile al seguente indirizzo: [Hacker News](https://fabiocambula.github.io/HackerNews/)
